@@ -14,7 +14,7 @@ The faucet was shutdown sometime in October 2017 and the remaining coin supply w
 
 ## Price rise
 
-In January 2018, Nano caught the attention of mainstream media along with a number of other cryptocurrencies due to a recent large price spike ([7](https://www.cnbc.com/2018/01/29/2018-might-be-the-year-of-the-great-crypto-rotation-tom-lee.html)).
+In January 2018, Nano (RaiBlocks at the time) caught the attention of mainstream media along with a number of other cryptocurrencies due to a recent large price spike ([7](https://www.cnbc.com/2018/01/29/2018-might-be-the-year-of-the-great-crypto-rotation-tom-lee.html)).
 
 ## Rebranding
 
